@@ -7,3 +7,6 @@ body {
 p.narrow {
     max-width: 300px;
 }
+p.wide {
+  max-width: 450px;
+}
